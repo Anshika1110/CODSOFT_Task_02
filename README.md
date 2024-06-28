@@ -1,28 +1,28 @@
-Simple Calculator
+# Simple Calculator
 
 
 
 Welcome to the Simple Calculator! This is a basic calculator program written in Python. It allows you to perform simple arithmetic operations: addition, subtraction, multiplication, and division.
 
 
-Features:
+# Features:
 
 
-Addition: Adds two numbers.
+1.Addition: Adds two numbers.
 
-Subtraction: Subtracts the second number from the first number.
+2.Subtraction: Subtracts the second number from the first number.
 
-Multiplication: Multiplies two numbers.
+3.Multiplication: Multiplies two numbers.
 
-Division: Divides the first number by the second number (handles division by zero).
+4.Division: Divides the first number by the second number (handles division by zero).
 
-Follow the prompts:
+# Follow the prompts:
 
-Enter the first number.
+->Enter the first number.
 
-Enter the second number.
+->Enter the second number.
 
-Choose an operation (1 for addition, 2 for subtraction, 3 for multiplication, 4 for division).
+->Choose an operation (1 for addition, 2 for subtraction, 3 for multiplication, 4 for division).
 
 
 Contributions:
